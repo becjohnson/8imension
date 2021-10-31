@@ -1,6 +1,10 @@
 body{
     background-color: #fcfcfc;
 }
+img {
+    width: auto;
+    height: auto;
+}
 .wrapper {
     background-color: #fcfcfc;
     margin: -2em 3.33em -2em 3.33em;
