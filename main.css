@@ -7,8 +7,7 @@ img {
 }
 .wrapper {
     background-color: #fcfcfc;
-    margin: -2em 3.33em -2em 3.33em;
-    padding: 1em;
+    margin: 1em;
 }
 div {
     display: inline block;
@@ -23,9 +22,8 @@ li {
     display: inline-block;
 }
 div.logo {
-    padding: 1.5em 1.5em 1.5em 1.5em;
-    position: relative;
-    top: -.666em;
+    padding: 1em;
+    margin-bottom: 1em;
 }
 h5 {
     font-size: 24pt;
